@@ -6,7 +6,7 @@ import Link from "next/link";
 import { ArrowRight, Play } from "lucide-react";
 import { motion } from "framer-motion";
 import { Container, Button } from "@/components/ui";
-import { cn } from "@/lib/utils";
+// import { cn } from "@/lib/utils";
 
 interface HeroProps {
   headline?: string;
