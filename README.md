@@ -1,6 +1,6 @@
-📸 Kodak Rebrand — Modern Web Experience
+## 📸 Kodak Rebrand — Modern Web Experience
 
-Future Interns · Full Stack Web Development Task 3
+## Future Interns · Full Stack Web Development Task 3
 
 ## 🔍 Project Overview
 
@@ -26,7 +26,7 @@ Deliver a production-quality frontend rebrand, not a prototype
 The project is deployed and publicly accessible.
 
 🔗 Live URL: https://future-fs-03-three.vercel.app/
-🔗 GitHub Repository: https://github.com/\](https://github.com/18mukeshram/FUTURE_FS_03
+🔗 GitHub Repository: https://github.com/18mukeshram/FUTURE_FS_03
 
 ## 🛠 Tech Stack
 Frontend
