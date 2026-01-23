@@ -1,6 +1,7 @@
-// src/types/content.ts
+// src/types/cms.ts
 
-// Firestore document types
+// CMS content types
+
 export interface FirestoreTimestamp {
   seconds: number;
   nanoseconds: number;
